@@ -1,0 +1,19 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>Deskmon</Name>
+  <DisplayName>Deskmon</DisplayName>
+  <Description>Deskmon</Description>
+  <Version>1.0.1.6</Version>
+  <ReleaseDate>2025-08-06</ReleaseDate>
+  <Script>installscript.qs</Script>
+  <Default>true</Default>
+  <UpdateFile CompressedSize="39126535" OS="Any" UncompressedSize="167381321"/>
+  <DownloadableArchives>.cmake.7z,.qt.7z,.qtc.7z,.qtc_clangd.7z,.rcc.7z,appwindow_logger_autogen.7z,CMakeFiles.7z,Deskmon_autogen.7z,generic.7z,iconengines.7z,imageformats.7z,meta_types.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,qml.7z,qmltooling.7z,qmltypes.7z,sqldrivers.7z,styles.7z,Testing.7z,tls.7z,translations.7z,window_logger.7z,content.7z</DownloadableArchives>
+  <SHA1>4dad96c05555f8984d5e765fa9eb86a53524f20c</SHA1>
+ </PackageUpdate>
+ <SHA1>4dad96c05555f8984d5e765fa9eb86a53524f20c</SHA1>
+ <MetadataName>2025-08-06-1624_meta.7z</MetadataName>
+</Updates>
