@@ -1,4 +1,4 @@
 {
-  "version": "1.0.2.1",
-  "releaseNotes": "• Perbaikan bug pada dialog update.\n• Peningkatan stabilitas koneksi.\n• Penyesuaian tampilan header."
+  "version": "1.0.2.3",
+  "releaseNotes": "• Kembali ke halaman login jika ada erro 'Host requires authentication' untuk login ulang manual."
 }
