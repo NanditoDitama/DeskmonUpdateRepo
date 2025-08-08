@@ -1,4 +1,4 @@
 {
   "version": "1.0.2.3",
-  "releaseNotes": "• Kembali ke halaman login jika ada erro 'Host requires authentication' untuk login ulang manual."
+  "releaseNotes": "• Kembali ke halaman login jika ada erro 'Host requires authentication' \n untuk login ulang manual."
 }
