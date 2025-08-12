@@ -6,14 +6,14 @@
   <Name>Deskmon</Name>
   <DisplayName>Deskmon</DisplayName>
   <Description>Deskmon</Description>
-  <Version>1.0.2.3</Version>
-  <ReleaseDate>2025-08-08</ReleaseDate>
+  <Version>1.0.2.4</Version>
+  <ReleaseDate>2025-08-12</ReleaseDate>
   <Script>installscript.qs</Script>
   <Default>true</Default>
-  <UpdateFile CompressedSize="39130139" OS="Any" UncompressedSize="165439076"/>
+  <UpdateFile CompressedSize="39203670" OS="Any" UncompressedSize="168278647"/>
   <DownloadableArchives>.cmake.7z,.qt.7z,.qtc.7z,.qtc_clangd.7z,.rcc.7z,appwindow_logger_autogen.7z,CMakeFiles.7z,Deskmon_autogen.7z,generic.7z,iconengines.7z,imageformats.7z,meta_types.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,qml.7z,qmltooling.7z,qmltypes.7z,sqldrivers.7z,styles.7z,Testing.7z,tls.7z,translations.7z,window_logger.7z,content.7z</DownloadableArchives>
-  <SHA1>5b037ab293914a6e0294510da201485c81f1cf19</SHA1>
+  <SHA1>12e39cbdb6aa5d6fea3a7efdba70f06cfb8cc6b7</SHA1>
  </PackageUpdate>
- <SHA1>5b037ab293914a6e0294510da201485c81f1cf19</SHA1>
- <MetadataName>2025-08-08-1254_meta.7z</MetadataName>
+ <SHA1>12e39cbdb6aa5d6fea3a7efdba70f06cfb8cc6b7</SHA1>
+ <MetadataName>2025-08-12-1802_meta.7z</MetadataName>
 </Updates>
