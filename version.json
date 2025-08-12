@@ -1,4 +1,5 @@
 {
-  "version": "1.0.2.1",
-  "releaseNotes": "• Perbaikan bug pada dialog update.\n• Peningkatan stabilitas koneksi.\n• Penyesuaian tampilan header."
+  "version": "1.0.2.4",
+  "releaseNotes": "• Perbaikan alasan Quit lebih awal.\n• Minimalisir lag pada aplikasi.\n• Perubahan tampilan login page."
 }
+
