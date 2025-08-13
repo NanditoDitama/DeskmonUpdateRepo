@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2.4",
-  "releaseNotes": "• Perbaikan alasan Quit lebih awal.\n• Minimalisir lag pada aplikasi.\n• Perubahan tampilan login page."
+  "version": "1.0.2.5",
+  "releaseNotes": "• Perbaikan Need Revise agar dapat di jalankan kembali."
 }
 
