@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2.5",
-  "releaseNotes": "• Perbaikan Need Revise agar dapat di jalankan kembali."
+  "version": "1.0.2.6",
+  "releaseNotes": "• Penambahan fitur input terisi otomatis pada login. \n• Perbaikan urutan task dari yang terbaru. \n Perubahan tampilan pesan error •"
 }
 
