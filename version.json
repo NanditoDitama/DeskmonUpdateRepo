@@ -3,3 +3,4 @@
   "releaseNotes": "• Perbaikan agar aplikasi tidak membuka instance baru jika sudah berjalan sebelumnya. \n• Perbaikan urutan task. \n• Perbaikan pesan idle agar tidak menutupi pesan dari login ulang"
 }
 
+
