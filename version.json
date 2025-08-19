@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2.6",
-  "releaseNotes": "• Penambahan fitur input terisi otomatis pada login. \n• Perbaikan urutan task dari yang terbaru. \n Perubahan tampilan pesan error •"
+  "version": "1.0.2.7",
+  "releaseNotes": "• Perbaikan agar aplikasi tidak membuka instance baru jika sudah berjalan sebelumnya. \n• Perbaikan urutan task. \n• Perbaikan pesan idle agar tidak menutupi pesan dari login ulang"
 }
 
