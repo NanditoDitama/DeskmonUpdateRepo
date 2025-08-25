@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2.7",
-  "releaseNotes": "• Perbaikan agar aplikasi tidak membuka instance baru jika sudah berjalan sebelumnya. \n• Perbaikan urutan task. \n• Perbaikan pesan idle agar tidak menutupi pesan dari login ulang"
+  "version": "1.0.2.8",
+  "releaseNotes": "• Penambahan Fitur Refresh setiap 3 menit"
 }
 
 
