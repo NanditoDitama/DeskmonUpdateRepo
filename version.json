@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2.8",
-  "releaseNotes": "• Penambahan Fitur Refresh setiap 3 menit"
+  "version": "1.0.2.9",
+  "releaseNotes": "• Menampilkan pesan untuk login ulang pada depan layar"
 }
 
 
