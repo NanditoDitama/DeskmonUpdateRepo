@@ -1,7 +1,8 @@
 {
-  "version": "1.0.3.0",
-  "releaseNotes": "• Menampilkan error API ketika API tidak valid \n • Memperbarui task sesuai yang ada di server"
+  "version": "1.0.3.1",
+  "releaseNotes": "• Penambahan fitur Detail Pekerjaan yang telah di kerjakan pada task yang active"
 }
+
 
 
 
