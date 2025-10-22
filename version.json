@@ -1,7 +1,8 @@
 {
   "version": "1.0.3.1",
-  "releaseNotes": "• [New]Penambahan fitur penulisan Detail Pekerjaan yang\n telah di kerjakan pada task yang active. \n • Penambahan Clock in dan Clock out pada Time At Work. \n • Memperbarui tampilan pada dashboard"
+  "releaseNotes": "• [New]Laporan Detail Pekerjaan pada Task. \n • [Add]Clock in dan Clock out pada Time At Work. \n • [~]Memperbarui tampilan pada dashboard"
 }
+
 
 
 
