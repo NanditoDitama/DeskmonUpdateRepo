@@ -1,6 +1,6 @@
 {
   "version": "1.0.3.0",
-  "releaseNotes": "• Menampilkan error API ketika API tidak valid \n • Memperbarui task sesuai yang ada di server"
+  "releaseNotes": "• [New Features] Penambahan dialog Warning 3 Task lebih yang masih pending\n • Memperbarui task sesuai yang ada di server"
 }
 
 
