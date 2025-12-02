@@ -1,7 +1,13 @@
 {
-  "version": "1.0.3.0",
-  "releaseNotes": "• [New Features] Penambahan dialog Warning 3 Task lebih yang masih pending\n • Memperbarui task sesuai yang ada di server"
+  "version": "1.0.3.1",
+  "releaseNotes": "-Task Update-\n• [New Features] Dialog Warning jika ada task yang pending lebih dari 3 \n• [New Features] Task dari bulan lalu tidak dapat di jalankan"
 }
+
+
+
+
+
+
 
 
 
