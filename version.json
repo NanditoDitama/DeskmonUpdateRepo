@@ -1,7 +1,8 @@
 {
   "version": "1.0.3.3",
-  "releaseNotes": "• [New Features] Penambahan dialog Warning 3 Task lebih yang masih pending"
+  "releaseNotes": "• [New Features] Penambahan dialog Warning jika ada task yang pending lebih dari 3 \n • [New Features] Penambahan dialog Warning pada task dari bulan lalu"
 }
+
 
 
 
