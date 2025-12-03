@@ -10,10 +10,10 @@
   <ReleaseDate>2025-12-02</ReleaseDate>
   <Script>installscript.qs</Script>
   <Default>true</Default>
-  <UpdateFile CompressedSize="40269930" OS="Any" UncompressedSize="175683130"/>
+  <UpdateFile CompressedSize="40273899" OS="Any" UncompressedSize="175625786"/>
   <DownloadableArchives>.cmake.7z,.qt.7z,.qtc.7z,.qtc_clangd.7z,.rcc.7z,appwindow_logger_autogen.7z,CMakeFiles.7z,Deskmon_autogen.7z,generic.7z,iconengines.7z,imageformats.7z,meta_types.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,qml.7z,qmltooling.7z,qmltypes.7z,sqldrivers.7z,styles.7z,Testing.7z,tls.7z,translations.7z,window_logger.7z,content.7z</DownloadableArchives>
-  <SHA1>47904ffe370647249a9655ddfedcc5bdead2ef2c</SHA1>
+  <SHA1>7511d6fcf9603dab502d8b005b4e46b899fd5236</SHA1>
  </PackageUpdate>
- <SHA1>47904ffe370647249a9655ddfedcc5bdead2ef2c</SHA1>
- <MetadataName>2025-12-02-1648_meta.7z</MetadataName>
+ <SHA1>7511d6fcf9603dab502d8b005b4e46b899fd5236</SHA1>
+ <MetadataName>2025-12-03-0909_meta.7z</MetadataName>
 </Updates>
